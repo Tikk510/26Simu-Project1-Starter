@@ -1,6 +1,6 @@
 model:
   name: "V3_State_Machine"
-  author: "CTO_Name_Here"
+  author: "陶超"
 
 pool:
   asset_x: "ETH"
